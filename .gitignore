@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+__pycache__/
+
+# Файлы, которые ноутбук создаёт при локальном запуске
+model.png
+repo_fruits360_cnn_model.h5
+repo_class_names.txt
